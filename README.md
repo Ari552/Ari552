@@ -5,15 +5,11 @@
   <a href="https://github.com/Ari552" target="_blank">
     <img src="https://img.shields.io/badge/%20%20GitHub%20%E2%80%A2%20Ari552%20%20-f3e7ff?style=for-the-badge&logo=github&logoColor=3b3355" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/%20%20LinkedIn%20%20-e3f6f5?style=for-the-badge&logo=linkedin&logoColor=2d4a53" alt="LinkedIn" />
-  </a>
+  
   <a href="mailto:sarahiperezreyesq@gmail.com">
     <img src="https://img.shields.io/badge/%20%20Gmail%20%20-ffe8f3?style=for-the-badge&logo=gmail&logoColor=5c374c" alt="Gmail" />
   </a>
-  <img src="https://img.shields.io/badge/%20%20Abasolo%2C%20MX%20%20-fff4e0?style=for-the-badge&logo=googlemaps&logoColor=5c4b32" alt="Ubicación" />
-</p>
-
+ 
 ---
 
 ### ✦ Sobre Mí
